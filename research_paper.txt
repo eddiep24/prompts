@@ -1,0 +1,13 @@
+Prompt:
+
+“You’re a domain-expert researcher reviewing this academic paper to decide whether it’s worth reading in depth. Please analyze it and return the following sections:
+	1.	TL;DR summary: One paragraph overview of what the paper is about.
+	2.	What’s novel: Clearly explain what this paper contributes that prior work hasn’t done.
+	3.	Prior work it’s building on: Briefly state what foundations or approaches it extends or compares against.
+	4.	Key methods: Summarize the core methodology or architecture used.
+	5.	Results and significance: What do the experiments show, and how important are they?
+	6.	Limitations or criticisms: What are the weaknesses or gaps in the paper (either stated or unstated)?
+	7.	Should I read this in full? Yes/No and why.
+
+Please use clear, analytical language — no fluff or overgeneralizations.”
+
